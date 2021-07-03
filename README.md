@@ -1,1 +1,1 @@
-# Intro-to-ML
+# Intro-to-Machine Learning
